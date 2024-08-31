@@ -22,4 +22,4 @@ M. Aria, M. Hashemzadeh, and N. Farajzadeh, "QDL-CMFD: A Quality-independent and
 
 2) Please do not distribute the database or source codes to others without the authorization from authors.
 
-Authors’ Emails: mehrad.aria[at]shirazu.ac.ir (M. Aria), hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
+Authors’ Emails: mehrad.aria[at]shirazu.ac.ir (M. Aria) & hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
